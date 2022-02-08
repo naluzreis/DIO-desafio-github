@@ -27,7 +27,7 @@ Repositório do desafio de projeto gi/github da DIO
 -**GIT COMMIT -M "MENSAGEM":** pega os arquivos que estavam em staged, envelopou em uma mensagem, deu sentido para eles e levou eles para unmodified(repositório local)
 -**GIT CINFIG --LIST:** configurações do git para fazer correlação com o github
 -**GIT CONFIG --GLOBAL --UNSET:** redefinir o que quer
-   - ex: "user.email/user.name..."
+    - ex: "user.email/user.name..."
 -**GIT REMOTE ADD ORIGIN:** passar o código local para remoto e primeiro colocasse a origem
 -**GIT PUSH ORIGIN MASTER:** passar de local para remoto
 -**GIT PULL ORIGIN MASTER:** puaxr o documento/arquivo remoto para seu repoditório local para que você entenda as mudanças e resolva antes de mandar de volta
