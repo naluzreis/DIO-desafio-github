@@ -20,8 +20,20 @@ Repositório do desafio de projeto gi/github da DIO
 - **DEL:** comando para deletar arquivos, porém não deleta repositórios
 - **RMDIR:** comando para deletar repositórios
 - **SHA1:** desenvolvida pela NSA, é um código encriptografado de 40 dígitos que de forma curta identifica um arquivo, já que a cada mudança o código do arquivo muda, mesmo que seja apenas uma vírgula 
+- **MV:** mover uma pasta para outra pasta
+- **GIT INIT:** cria o .git e inicialza o repertório
+- **GIT ADD:** move o arquivo, seja ele untracked ou modified, para stage
+    - a estrutura pode ser: git add nomeArquivo ou git add* ou git add.
+-**GIT COMMIT -M "MENSAGEM":** pega os arquivos que estavam em staged, envelopou em uma mensagem, deu sentido para eles e levou eles para unmodified(repositório local)
+-**GIT CINFIG --LIST:** configurações do git para fazer correlação com o github
+-**GIT CONFIG --GLOBAL --UNSET:** redefinir o que quer
+   - ex: "user.email/user.name..."
+-**GIT REMOTE ADD ORIGIN:** passar o código local para remoto e primeiro colocasse a origem
+-**GIT PUSH ORIGIN MASTER:** passar de local para remoto
+-**GIT PULL ORIGIN MASTER:** puaxr o documento/arquivo remoto para seu repoditório local para que você entenda as mudanças e resolva antes de mandar de volta
+
 
 ## Objetos internos
-- **Blobs:** guarda objetos 
-- **tree:** armazena blobs e apontam para blobs diferentes ou outras árvores
-- **commit:** junta tudo
+- **BLOBS:** guarda objetos 
+- **TREE:** armazena blobs e apontam para blobs diferentes ou outras árvores
+- **COMMIT:** junta tudo
