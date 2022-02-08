@@ -1,7 +1,7 @@
 # DIO desafio github
-repositório do desafio de projeto gi/github da DIO
+Repositório do desafio de projeto gi/github da DIO
 
 ## Links úteis
-[sintaxe básica markdown](https://www.markdownguide.org/basic-syntax)
+[Sintaxe básica markdown](https://www.markdownguide.org/basic-syntax)
 
-[w3schools para compreender linguagens](https://www.w3schools.com)
+[W3Schools para compreender linguagens](https://www.w3schools.com)
