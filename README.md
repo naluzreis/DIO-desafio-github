@@ -24,13 +24,13 @@ Repositório do desafio de projeto gi/github da DIO
 - **GIT INIT:** cria o .git e inicialza o repertório
 - **GIT ADD:** move o arquivo, seja ele untracked ou modified, para stage
     - a estrutura pode ser: git add nomeArquivo ou git add* ou git add.
--**GIT COMMIT -M "MENSAGEM":** pega os arquivos que estavam em staged, envelopou em uma mensagem, deu sentido para eles e levou eles para unmodified(repositório local)
--**GIT CINFIG --LIST:** configurações do git para fazer correlação com o github
--**GIT CONFIG --GLOBAL --UNSET:** redefinir o que quer
+- **GIT COMMIT -M "MENSAGEM":** pega os arquivos que estavam em staged, envelopou em uma mensagem, deu sentido para eles e levou eles para unmodified(repositório local)
+- **GIT CINFIG --LIST:** configurações do git para fazer correlação com o github
+- **GIT CONFIG --GLOBAL --UNSET:** redefinir o que quer
     - ex: "user.email/user.name..."
--**GIT REMOTE ADD ORIGIN:** passar o código local para remoto e primeiro colocasse a origem
--**GIT PUSH ORIGIN MASTER:** passar de local para remoto
--**GIT PULL ORIGIN MASTER:** puaxr o documento/arquivo remoto para seu repoditório local para que você entenda as mudanças e resolva antes de mandar de volta
+- **GIT REMOTE ADD ORIGIN:** passar o código local para remoto e primeiro colocasse a origem
+- **GIT PUSH ORIGIN MASTER:** passar de local para remoto
+- **GIT PULL ORIGIN MASTER:** puaxr o documento/arquivo remoto para seu repoditório local para que você entenda as mudanças e resolva antes de mandar de volta
 
 
 ## Objetos internos
